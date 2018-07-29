@@ -1,2 +1,9 @@
-# cv7.template
-framework7 + Vue + cordova , go
+# Framework7 Vue + Webpack App Template & cordova
+
+powered by
+
+> https://github.com/framework7io/framework7-template-vue-webpack
+
+
+# Usage
+...
